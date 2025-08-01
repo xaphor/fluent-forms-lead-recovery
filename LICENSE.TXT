@@ -1,0 +1,3 @@
+License: GPL3
+Year 2025
+Name: Fluent Forms Lead Recovery Plugin
